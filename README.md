@@ -119,7 +119,7 @@ This score represents the model's prediction accuracy on unseen test data submit
 
 ###  Data Overview
 
-![Data Overview]()
+![Data Overview](https://github.com/unqrazique-code/Titanic_Survival_Prediction/blob/3324878ae07bee9420c296115c61f525a4b9fadb/data_overview.png)
 
 ###  Missing Values Handling
 
