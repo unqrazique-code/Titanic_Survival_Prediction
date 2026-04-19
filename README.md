@@ -119,31 +119,31 @@ This score represents the model's prediction accuracy on unseen test data submit
 
 ###  Data Overview
 
-![Data Overview](images/data_overview.png)
+![Data Overview]()
 
 ###  Missing Values Handling
 
-*Missing Values in Train
+* Missing Values in Train
 
-![Missing Value in Train]()
+![Missing Value in Train](https://github.com/unqrazique-code/Titanic_Survival_Prediction/blob/9b2cecc28b8de4048197642a3feadd6f2e5bb03b/missing%20values%20in%20train.png)
 
-*Missing Value in Test
+* Missing Value in Test
 
-![Missing Value in Test]()
+![Missing Value in Test](https://github.com/unqrazique-code/Titanic_Survival_Prediction/blob/9b2cecc28b8de4048197642a3feadd6f2e5bb03b/missing%20values%20in%20Test.png)
 
 ###  EDA Visualization
 
 * Survival by Gender
 
-  ![Survival by Gender]()
+  ![Survival by Gender](https://github.com/unqrazique-code/Titanic_Survival_Prediction/blob/9b2cecc28b8de4048197642a3feadd6f2e5bb03b/survival%20by%20Gender.png)
 
 * Survival by Class
 
-  ![Survival by Class]()
+  ![Survival by Class](https://github.com/unqrazique-code/Titanic_Survival_Prediction/blob/9b2cecc28b8de4048197642a3feadd6f2e5bb03b/survival%20by%20Class.png)
 
 ###  Model Training
 
-![Model Training]()
+![Model Training](https://github.com/unqrazique-code/Titanic_Survival_Prediction/blob/9b2cecc28b8de4048197642a3feadd6f2e5bb03b/model%20training.png)
 
 ###  Model Evaluation
 
