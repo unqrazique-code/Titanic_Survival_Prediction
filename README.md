@@ -149,7 +149,7 @@ This score represents the model's prediction accuracy on unseen test data submit
 
 ###  Model Evaluation
 
-![Model Evaluation]()
+![Model Evaluation](https://github.com/unqrazique-code/Titanic_Survival_Prediction/blob/c02a7817b38abfa71bde986613784ced1cbee959/Model%20Evaluation.png)
 
 ---
 
