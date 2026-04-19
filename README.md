@@ -124,25 +124,30 @@ This score represents the model's prediction accuracy on unseen test data submit
 ###  Missing Values Handling
 
 *Missing Values in Train
+
 ![Missing Value in Train]()
 
 *Missing Value in Test
-![Missing Value in Test]
+
+![Missing Value in Test]()
 
 ###  EDA Visualization
 
 * Survival by Gender
+
+  ![Survival by Gender]()
+
 * Survival by Class
 
-*(Insert plots here)*
+  ![Survival by Class]()
 
 ###  Model Training
 
-*(Screenshot of training code/output)*
+![Model Training]()
 
 ###  Model Evaluation
 
-*(Accuracy output or confusion matrix)*
+![Model Evaluation]()
 
 ---
 
