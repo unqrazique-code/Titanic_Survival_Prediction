@@ -104,6 +104,8 @@ Models used:
 
 This score represents the model's prediction accuracy on unseen test data submitted to Kaggle. It reflects a solid beginner-level performance and a good understanding of data preprocessing and basic machine learning techniques.
 
+![Kaggle Score](https://github.com/unqrazique-code/Titanic_Survival_Prediction/blob/8b0e75ea1250e1e8a5fd4205ae614f9f87a04c40/kaggle%20score.png)
+
 ---
 
 ##  Key Insights
