@@ -1,4 +1,4 @@
-# Titanic Survival Prediction
+#  Titanic Survival Prediction
 
 ##  Project Overview
 
@@ -12,14 +12,14 @@ Given passenger details such as age, gender, class, and fare, predict whether th
 
 ---
 
-## 📂 Dataset Files
+##  Dataset Files
 
 | File Name              | Description                                            |
 | ---------------------- | ------------------------------------------------------ |
-| `train.csv`            | Training dataset (includes target variable `Survived`) |
-| `test.csv`             | Test dataset (no target column)                        |
-| `submission.csv`       | Final prediction output file                           |
-| `train-checkpoint.csv` | Backup file (auto-generated)                           |
+| train.csv            | Training dataset (includes target variable Survived) |
+| test.csv             | Test dataset (no target column)                        |
+| submission.csv       | Final prediction output file                           |
+| train-checkpoint.csv | Backup file (auto-generated)                           |
 
 ---
 
@@ -56,15 +56,15 @@ Given passenger details such as age, gender, class, and fare, predict whether th
 
 ###  1. Data Cleaning
 
-* Filled missing values (`Age`, `Embarked`)
-* Dropped irrelevant columns (`Cabin`, `Name`, `Ticket`)
+* Filled missing values (Age, Embarked)
+* Dropped irrelevant columns (Cabin, Name, Ticket)
 
 ###  2. Feature Engineering
 
 * Converted categorical variables:
 
-  * `Sex` → numeric (0,1)
-  * `Embarked` → one-hot encoding
+  * Sex → numeric (0,1)
+  * Embarked → one-hot encoding
 * Created new features (optional):
 
   * Family size
@@ -119,11 +119,15 @@ This score represents the model's prediction accuracy on unseen test data submit
 
 ###  Data Overview
 
-*(Add screenshot of df.head() output)*
+![Data Overview](images/data_overview.png)
 
 ###  Missing Values Handling
 
-*(Add screenshot of preprocessing steps)*
+*Missing Values in Train
+![Missing Value in Train]()
+
+*Missing Value in Test
+![Missing Value in Test]
 
 ###  EDA Visualization
 
