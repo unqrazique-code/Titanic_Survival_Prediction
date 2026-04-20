@@ -100,11 +100,11 @@ Models used:
 
 ##  Kaggle Score
 
-**Public Leaderboard Score: 0.73205**
+**Public Leaderboard Score: 0.76315**
 
 This score represents the model's prediction accuracy on unseen test data submitted to Kaggle. It reflects a solid beginner-level performance and a good understanding of data preprocessing and basic machine learning techniques.
 
-![Kaggle Score](https://github.com/unqrazique-code/Titanic_Survival_Prediction/blob/8b0e75ea1250e1e8a5fd4205ae614f9f87a04c40/kaggle%20score.png)
+![Kaggle Score](https://github.com/unqrazique-code/Titanic_Survival_Prediction/blob/335c5eacd6f48d02642dd588252dfab569868c64/kaggle%20score_lr.png)
 
 ---
 
@@ -149,7 +149,11 @@ This score represents the model's prediction accuracy on unseen test data submit
 
 ###  Model Evaluation
 
-![Model Evaluation](https://github.com/unqrazique-code/Titanic_Survival_Prediction/blob/c02a7817b38abfa71bde986613784ced1cbee959/Model%20Evaluation.png)
+![Model Evaluation](https://github.com/unqrazique-code/Titanic_Survival_Prediction/blob/335c5eacd6f48d02642dd588252dfab569868c64/model%20evaluation.png)
+
+### Feature Importance
+
+![Feature Importance](https://github.com/unqrazique-code/Titanic_Survival_Prediction/blob/335c5eacd6f48d02642dd588252dfab569868c64/feature_importance.png)
 
 ---
 
@@ -168,7 +172,7 @@ Open the notebook and run all cells step by step.
 
 * Cleaned dataset
 * Trained ML model
-* Predictions file (`submission.csv`)
+* Predictions file (submission.csv)
 
 ---
 
@@ -181,7 +185,7 @@ Open the notebook and run all cells step by step.
 
 ---
 
-## ⭐ Final Note
+##  Final Note
 
 This project is a foundational step into data science and machine learning. It focuses on building intuition, not just accuracy.
 
